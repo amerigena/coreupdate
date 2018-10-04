@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Simply Line
+Description=Script plugin.
+ModuleName=script
+
+[script]
+ImageDir=/lib/plymouth/themes/simply_line
+ScriptFile=/lib/plymouth/themes/simply_line/script.script
