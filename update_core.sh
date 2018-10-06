@@ -1,3 +1,4 @@
+!/bin/bash
 sudo apt update && sudo apt install xfce4* gvfs* xpad hexchat evince
 wget -nv https://download.opensuse.org/repositories/home:stevenpusser/xUbuntu_18.04/Release.key -O Release.key
 sudo apt-key add - < Release.key
