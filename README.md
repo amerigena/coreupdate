@@ -10,3 +10,6 @@
 <p>claws-mail_3.17.1-1-amd64</p>
 <p>midori_0.5.11-ds1-4_amd64</p>
 
+This is going to be edited to include Debian
+Use this ISO as a base - https://cdimage.debian.org/images/unofficial/non-free/images-including-firmware/current-live/amd64/iso-hybrid/
+
